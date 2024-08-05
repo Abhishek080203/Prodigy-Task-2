@@ -24,6 +24,12 @@ Front-End
 
 ## 👀 Screenshots
 ![ss](cl.png)
+<br>
+
+![ss](c1.png)
+<br>
+
+![ss](c2.png)
 
 
 ## ✍ Author
